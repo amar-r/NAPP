@@ -198,6 +198,9 @@ cython_debug/
 docker-compose.override.yml
 
 # Node/React artifacts
+
+# Local documentation and changelog
+CHANGELOG.md
 node_modules/
 dist/
 build/
