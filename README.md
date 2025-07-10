@@ -1,6 +1,12 @@
-# NAPP - Nanny Automated Payroll Profiler
+# NAPP – Nanny Automated Payroll Profiler
 
-A comprehensive web application for managing nanny payroll with automatic tax calculations for Virginia state and Federal taxes.
+![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
+![Docker](https://img.shields.io/badge/docker-ready-blue)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
+Simple, self-hosted payroll and expense management for household employers.
+
+NAPP is a lightweight application to track nanny expenses, manage payments, and generate reports for tax documentation. I built this to replace spreadsheets and manual recordkeeping with an automated workflow.
 
 ## Features
 
